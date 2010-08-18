@@ -1,0 +1,12 @@
+{ "author":"jamescarr <james.r.carr@gmail.com"
+, "name":"file-api-spike"
+, "version": "0.0.1"
+, "description":"A simple File API spike"
+, "dependencies":{
+  "express":"1.0.0rc"
+   , "haml":"0.2.5"
+   , "connect":"0.2.4"
+   , "websocket-server":"1.3.03"
+  }
+, "engines": { "node": ">=0.1.98-0"}
+}

@@ -1,0 +1,7 @@
+<!doctype html>
+<body>
+<form method="post" enctype="multipart/form-data" id="uploadform">
+  <input type="file" name="dragupload[]" multiple="multiple"
+  onchange="if (this.value) document.getElementById('uploadform').submit();" />
+</form>
+</body>
